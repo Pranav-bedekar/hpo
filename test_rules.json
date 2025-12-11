@@ -1,0 +1,17 @@
+{
+  "rules": [
+    {
+      "rule_id": "ball_color_check",
+      "category": "Color Compliance",
+      "description": "The primary object (ball) must be semantically Red (accepts shades like crimson, maroon, bright red).",
+      "logic_type": "semantic_color_check", 
+      "parameters": {
+        "target_color_name": "red",
+        "forbidden_colors": ["blue", "green", "yellow"],
+        "min_saturation": 50,
+        "min_brightness": 40
+      },
+      "error_message": "Ball is not recognized as Red. Detected color appears to be {detected_color}."
+    }
+  ]
+}

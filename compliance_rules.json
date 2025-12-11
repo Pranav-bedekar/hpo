@@ -1,0 +1,1033 @@
+{
+  "rules": [
+    {
+      "category": "Imagery",
+      "rule_text": "Coca-Cola Zero Logo must not be used for anything other than the trademarks incorporating 'Coca-Cola' and 'Zero'.",
+      "parameters": {}
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "The Coca-Cola Zero Logo must not be altered or modified.",
+      "parameters": {}
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "Use only the approved versions of the Coca-Cola Zero Logo.",
+      "parameters": {}
+    },
+    {
+      "category": "Color",
+      "rule_text": "Standard Coca-Cola Zero Logo must be used on a white background.",
+      "parameters": {}
+    },
+    {
+      "category": "Color",
+      "rule_text": "Reversed Coca-Cola Zero Logo must be used on a black background.",
+      "parameters": {}
+    },
+    {
+      "category": "Color",
+      "rule_text": "Coca-Cola Zero Logo can only be used in the specified color palette.",
+      "parameters": {}
+    },
+    {
+      "category": "Color",
+      "rule_text": "Coca-Cola Zero Logo can be used on etched, embossed, sandblasted, or spot varnished materials, but the color can be the same as the substrate.",
+      "parameters": {}
+    },
+    {
+      "category": "Color",
+      "rule_text": "Restricted-use Coca-Cola Zero Logo must be used on a white background.",
+      "parameters": {}
+    },
+    {
+      "category": "Color",
+      "rule_text": "Restricted-use reverse Coca-Cola Zero Logo must be used on a black background.",
+      "parameters": {}
+    },
+    {
+      "category": "Clear Space",
+      "rule_text": "Surround the Coca-Cola Zero Logo with clear space equal to the height of the hyphen connecting 'Coca' and 'Cola'.",
+      "parameters": {}
+    },
+    {
+      "category": "Minimum Size",
+      "rule_text": "Minimum print size of the TM must be at least 1 mm (0.04 inches) in diameter.",
+      "parameters": {
+        "min_print_size_mm": 1
+      }
+    },
+    {
+      "category": "Minimum Size",
+      "rule_text": "Minimum onscreen size of the TM must be at least 6 pixels in diameter.",
+      "parameters": {
+        "min_onscreen_size_pixels": 6
+      }
+    },
+    {
+      "category": "TM Scaling",
+      "rule_text": "The TM should be scaled up to ensure legibility, always scale the TM from the top edge.",
+      "parameters": {}
+    },
+    {
+      "category": "TM Scaling",
+      "rule_text": "The TM must not be less than 1/4 of the diameter of the TM.",
+      "parameters": {
+        "min_tm_diameter_ratio": 0.25
+      }
+    },
+    {
+      "category": "Cropping",
+      "rule_text": "Cropping rules may be granted if the market is considered mature and a Brand approval process is followed.",
+      "parameters": {}
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "Do not use any other version of the Coke logo.",
+      "parameters": {}
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "Do not remove or reposition the TM.",
+      "parameters": {}
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "Do not add elements.",
+      "parameters": {}
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "Do not add gloves to the Coca-Cola Zero Logo.",
+      "parameters": {}
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "Do not add strokes or outlines to the Coca-Cola Zero Logo.",
+      "parameters": {}
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "Do not alter the Coca-Cola Zero Logo disproportionately.",
+      "parameters": {}
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "Do not rotate the Coca-Cola Zero Logo or create false perspectives.",
+      "parameters": {}
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "Do not distort the Coca-Cola Zero Logo.",
+      "parameters": {}
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "Do not enlarge Zero separately.",
+      "parameters": {}
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "Do not reduce zero separately.",
+      "parameters": {}
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "Do not create a black disk icon.",
+      "parameters": {}
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "Do not place on any color other than black.",
+      "parameters": {}
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "Coca-Cola Zero Logo must be used in a horizontal version.",
+      "parameters": {}
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "Coca-Cola Zero Logo must not be altered.",
+      "parameters": {}
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "The black background is preferred for the Coca-Cola Zero Logo.",
+      "parameters": {}
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "Visibility and legibility must always be maintained.",
+      "parameters": {}
+    },
+    {
+      "category": "Geometry",
+      "rule_text": "Minimum clear space around the logo must be maintained.",
+      "parameters": {
+        "clear_space": "equal to the height of the 'C' in 'Coca'"
+      }
+    },
+    {
+      "category": "Geometry",
+      "rule_text": "Coca-Cola Zero Logo must always sit above the other logo.",
+      "parameters": {}
+    },
+    {
+      "category": "Geometry",
+      "rule_text": "Clear space between Coca-Cola Zero Logo and the logo beneath it must be equal to 6 times the height of the hyphen connecting 'Coca' and 'Cola'.",
+      "parameters": {
+        "clear_space_height_multiplier": 6
+      }
+    },
+    {
+      "category": "Geometry",
+      "rule_text": "A black horizontal rule must bisect the clear space between the two logos.",
+      "parameters": {}
+    },
+    {
+      "category": "Geometry",
+      "rule_text": "The distance from the leftmost edge of the capital 'C' in 'Coca' to the rightmost edge of the capital 'C' in 'Cola' must be maintained.",
+      "parameters": {}
+    },
+    {
+      "category": "Geometry",
+      "rule_text": "The right edge of the other logo must never exceed the height of the Coca-Cola Zero Logo.",
+      "parameters": {}
+    },
+    {
+      "category": "Geometry",
+      "rule_text": "The Coca-Cola Zero Logo must be positioned to the left of the other logo.",
+      "parameters": {}
+    },
+    {
+      "category": "Geometry",
+      "rule_text": "The baseline of the Coca-Cola Zero Logo must align with the baseline of the capital 'C' in 'Cola'.",
+      "parameters": {}
+    },
+    {
+      "category": "Geometry",
+      "rule_text": "Logo must be angled at 20 degrees.",
+      "parameters": {
+        "angle": 20
+      }
+    },
+    {
+      "category": "Color",
+      "rule_text": "Preferred background is black.",
+      "parameters": {
+        "background_color": "#000000"
+      }
+    },
+    {
+      "category": "Visibility",
+      "rule_text": "Visibility and legibility must always be maintained.",
+      "parameters": {}
+    },
+    {
+      "category": "Geometry",
+      "rule_text": "Maintain a clear space around the logo.",
+      "parameters": {
+        "min_clear_space": "height of the hyphen between 'Coca' and 'Cola'"
+      }
+    },
+    {
+      "category": "Geometry",
+      "rule_text": "Logo must not be rotated.",
+      "parameters": {
+        "max_rotation": 0
+      }
+    },
+    {
+      "category": "Geometry",
+      "rule_text": "Logo must be displayed at a minimum angle of 20 degrees.",
+      "parameters": {
+        "min_angle": 20
+      }
+    },
+    {
+      "category": "Position",
+      "rule_text": "Logo must be positioned within the contour bottle.",
+      "parameters": {}
+    },
+    {
+      "category": "Cropping",
+      "rule_text": "Logo should be cropped off 2 edges as shown.",
+      "parameters": {}
+    },
+    {
+      "category": "Clear Space",
+      "rule_text": "Surround the Coke Zero Logo with clear space.",
+      "parameters": {
+        "min_clear_space": "width of the top of the 'k' in 'Coke'"
+      }
+    },
+    {
+      "category": "Minimum Print Size",
+      "rule_text": "The TM must be at least 1 mm (0.04 inches) in diameter.",
+      "parameters": {
+        "min_tm_diameter_mm": 1
+      }
+    },
+    {
+      "category": "Minimum Onscreen Size",
+      "rule_text": "Display the script at least 100 pixels wide and the TM at least 6 pixels in diameter.",
+      "parameters": {
+        "min_onscreen_width_pixels": 100,
+        "min_tm_diameter_pixels": 6
+      }
+    },
+    {
+      "category": "Scaling",
+      "rule_text": "Align the top edge of the TM with the top of the 'k' in 'Zero'.",
+      "parameters": {}
+    },
+    {
+      "category": "Scaling",
+      "rule_text": "When using the logo in smaller sizes, scale the TM as needed to ensure legibility.",
+      "parameters": {}
+    },
+    {
+      "category": "Clear Space",
+      "rule_text": "The distance between the clear space and the bottom of the 'k' in 'Zero' must be at least 14% of the total diameter of the TM.",
+      "parameters": {
+        "min_clear_space_percentage": 14
+      }
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "Use the horizontal version of the Coke Zero Logo for shelf strips.",
+      "parameters": {}
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "The Coke Zero Logo must not be altered.",
+      "parameters": {}
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "Choose the logo based on visibility and legibility.",
+      "parameters": {}
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "Maintain a clear space around the logo.",
+      "parameters": {
+        "clear_space_height": "height of the half-circle formed inside the top of the 'e' in 'Zero'"
+      }
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "Use only the approved versions of the Contour Bottle Symbol.",
+      "parameters": {}
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "Do not alter the shape of the Contour Bottle Symbol.",
+      "parameters": {}
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "Do not use unapproved images of the Contour Bottle.",
+      "parameters": {}
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "Contour Bottle Symbol must be adapted to be consistent with the standard 3D form.",
+      "parameters": {}
+    },
+    {
+      "category": "Color",
+      "rule_text": "Coca-Cola Red and 'Zero' must be used in the Brand Standards.",
+      "parameters": {}
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "The shape of the Contour Bottle Symbol can be formed by surrounding illustrations.",
+      "parameters": {}
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "Illustrations surrounding the Contour Bottle Symbol are not permitted to alter its shape.",
+      "parameters": {}
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "Contour Bottle Symbol must remain the same and not be cropped.",
+      "parameters": {}
+    },
+    {
+      "category": "Color",
+      "rule_text": "Contour Bottle Symbol must be shown in specific colors.",
+      "parameters": {
+        "allowed_colors": [
+          "Black",
+          "White",
+          "Coke Red"
+        ]
+      }
+    },
+    {
+      "category": "Color",
+      "rule_text": "Avoid using colors outside the Brand color palette.",
+      "parameters": {
+        "caveat": "Do not use colors even if they are in the Brand color palette."
+      }
+    },
+    {
+      "category": "Clear Space",
+      "rule_text": "Surround the Contour Bottle Symbol with clear space that is, at a minimum, the x-height of the 'o' in 'Cola'.",
+      "parameters": {
+        "min_clear_space": "x-height of 'o'"
+      }
+    },
+    {
+      "category": "Safe Area",
+      "rule_text": "The safe area is only relevant for the Contour Bottle Symbol's position within the page; elements can surround it for other executions.",
+      "parameters": {}
+    },
+    {
+      "category": "Clear Space Exception",
+      "rule_text": "Clear space can be omitted at the top for certain applications, such as fountain cups and stadium boardings, but keep the minimum clear space along the sides.",
+      "parameters": {
+        "min_clear_space": "sides"
+      }
+    },
+    {
+      "category": "Size",
+      "rule_text": "Minimum print size for the Contour Bottle Symbol.",
+      "parameters": {
+        "min_print_size": "100 pixels"
+      }
+    },
+    {
+      "category": "Size",
+      "rule_text": "Minimum onscreen size for the Contour Bottle Symbol.",
+      "parameters": {
+        "min_onscreen_size": "100 pixels"
+      }
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "Do not use an older version of the Contour Bottle Symbol.",
+      "parameters": {}
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "Do not add drop shadows or patterns behind the Contour Bottle Symbol.",
+      "parameters": {}
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "Do not add strikes or outlines to the Contour Bottle Symbol.",
+      "parameters": {}
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "Do not remove or separate the elements of the Contour Bottle Symbol.",
+      "parameters": {}
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "Do not add elements to the Contour Bottle Symbol.",
+      "parameters": {}
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "Do not alter the Spencerian Script on the Contour Bottle Symbol.",
+      "parameters": {}
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "Do not rotate the Contour Bottle Symbol.",
+      "parameters": {
+        "max_rotation": 0
+      }
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "Do not scale or resize the Contour Bottle Symbol disproportionately.",
+      "parameters": {}
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "Do not skew the Contour Bottle Symbol or create false perspectives.",
+      "parameters": {}
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "Do not place the Contour Bottle Symbol on unapproved colors.",
+      "parameters": {}
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "Do not ignore the clear space alignment or cropping rules for the Contour Bottle Symbol.",
+      "parameters": {}
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "Dynamic Ribbon must follow the Coca-Cola Zero Logo and Contour Bottle Symbol.",
+      "parameters": {}
+    },
+    {
+      "category": "Usage",
+      "rule_text": "Dynamic Ribbon is optional and must be used according to the Trademark Usage guidelines.",
+      "parameters": {}
+    },
+    {
+      "category": "Usage",
+      "rule_text": "Only use the approved versions of the Dynamic Ribbon available on the Design Machine website.",
+      "parameters": {}
+    },
+    {
+      "category": "Naming",
+      "rule_text": "The legal name is Dynamic Ribbon Device.",
+      "parameters": {}
+    },
+    {
+      "category": "Compliance",
+      "rule_text": "Consult with your local legal counsel for usage guidance.",
+      "parameters": {}
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "Ribbon needs to bleed off an execution.",
+      "parameters": {}
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "Maximum limitations for ribbon impact are necessary.",
+      "parameters": {}
+    },
+    {
+      "category": "Color",
+      "rule_text": "Use the Dynamic Ribbon alone or as a connecting device with other design elements.",
+      "parameters": {}
+    },
+    {
+      "category": "Color",
+      "rule_text": "Do not alter the distinctive shape of the Dynamic Ribbon from the approved form as shown in the Brand Standards.",
+      "parameters": {}
+    },
+    {
+      "category": "Color",
+      "rule_text": "Do not crop the Dynamic Ribbon more than from using it with other Brand Elements or graphics.",
+      "parameters": {}
+    },
+    {
+      "category": "Color",
+      "rule_text": "Do not use a section of the Dynamic Ribbon with a design element in a manner that obscures the identifying 'kitchen-sink' thin line.",
+      "parameters": {}
+    },
+    {
+      "category": "Color",
+      "rule_text": "If approved usage of the Dynamic Ribbon excludes the Coca-Cola Zero Logo, it must be included as shown on this page.",
+      "parameters": {}
+    },
+    {
+      "category": "Color",
+      "rule_text": "Use the restricted-use Dynamic Ribbon as black on a white background.",
+      "parameters": {
+        "color": "#000000",
+        "background_color": "#FFFFFF"
+      }
+    },
+    {
+      "category": "Color",
+      "rule_text": "Use the Dynamic Ribbon as silver on a white background.",
+      "parameters": {
+        "color": "#C0C0C0",
+        "background_color": "#FFFFFF"
+      }
+    },
+    {
+      "category": "Color",
+      "rule_text": "Use the White Dynamic Ribbon on a black background.",
+      "parameters": {
+        "color": "#FFFFFF",
+        "background_color": "#000000"
+      }
+    },
+    {
+      "category": "Geometry",
+      "rule_text": "Align hyphen with the 'z' in Zero.",
+      "parameters": {}
+    },
+    {
+      "category": "Geometry",
+      "rule_text": "Space between the Coca-Cola Zero Logo and Ribbon must equal the height of the hyphen.",
+      "parameters": {
+        "space_ratio": "h"
+      }
+    },
+    {
+      "category": "Geometry",
+      "rule_text": "The height of the Dynamic Ribbon must not overlap with the Coca-Cola Zero Logo.",
+      "parameters": {}
+    },
+    {
+      "category": "Geometry",
+      "rule_text": "The space ratio between the Coca-Cola Zero Logo and Ribbon is defined as 4h.",
+      "parameters": {
+        "space_ratio": "4h"
+      }
+    },
+    {
+      "category": "Geometry",
+      "rule_text": "Dynamic Ribbon must not be altered or distorted in any way.",
+      "parameters": {}
+    },
+    {
+      "category": "Geometry",
+      "rule_text": "Dynamic Ribbon must not overlap with any Brand Element.",
+      "parameters": {}
+    },
+    {
+      "category": "Geometry",
+      "rule_text": "Design elements must not cover more than 1/3 of the Dynamic Ribbon.",
+      "parameters": {
+        "max_cover_ratio": 0.33
+      }
+    },
+    {
+      "category": "Color",
+      "rule_text": "No colors other than black or white are allowed for the Dynamic Ribbon.",
+      "parameters": {}
+    },
+    {
+      "category": "Geometry",
+      "rule_text": "Dynamic Ribbon must not be rotated, except for 90\u00b0 counterclockwise rotation.",
+      "parameters": {
+        "max_rotation": 90
+      }
+    },
+    {
+      "category": "Geometry",
+      "rule_text": "Dynamic Ribbon must not be cropped unevenly.",
+      "parameters": {}
+    },
+    {
+      "category": "Geometry",
+      "rule_text": "Dynamic Ribbon must not be cropped.",
+      "parameters": {}
+    },
+    {
+      "category": "Geometry",
+      "rule_text": "Proper space must be allowed for the Dynamic Ribbon.",
+      "parameters": {}
+    },
+    {
+      "category": "Geometry",
+      "rule_text": "Coca-Cola Zero Logo must not be altered in any way.",
+      "parameters": {}
+    },
+    {
+      "category": "Geometry",
+      "rule_text": "Standard proportions must be maintained for the Coca-Cola Zero Logo.",
+      "parameters": {}
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "Older versions of the Dynamic Ribbon must not be used.",
+      "parameters": {}
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "Use only the approved versions of the Coca-Cola Zero Arden Square.",
+      "parameters": {}
+    },
+    {
+      "category": "Color",
+      "rule_text": "Coca-Cola Zero must be executed in one color on a black background.",
+      "parameters": {
+        "allowed_colors": [
+          "Coke Red",
+          "White",
+          "Silver"
+        ],
+        "background_color": "Black"
+      }
+    },
+    {
+      "category": "Color",
+      "rule_text": "For media where color is not an option, use the restricted-use Arden Square in black and white.",
+      "parameters": {
+        "allowed_colors": [
+          "Black",
+          "White"
+        ],
+        "background_color": "Black"
+      }
+    },
+    {
+      "category": "Clear Space",
+      "rule_text": "Maintain clear space around the Arden Square.",
+      "parameters": {
+        "min_clear_space": "distance from bottom of 'o' to top of 'C'"
+      }
+    },
+    {
+      "category": "Minimum Size",
+      "rule_text": "Minimum print size must be adhered to.",
+      "parameters": {
+        "min_print_size": "X"
+      }
+    },
+    {
+      "category": "Minimum Size",
+      "rule_text": "Minimum onscreen size must be at least 6 pixels in diameter.",
+      "parameters": {
+        "min_onscreen_size": 6
+      }
+    },
+    {
+      "category": "Geometry",
+      "rule_text": "Do not alter the shape or proportions of the Arden Square.",
+      "parameters": {}
+    },
+    {
+      "category": "Geometry",
+      "rule_text": "Do not change the placement of the Dynamic Ribbon in the Arden Square.",
+      "parameters": {}
+    },
+    {
+      "category": "Geometry",
+      "rule_text": "Do not alter the proper space ratio of the layout of the Dynamic Ribbon and The Coca-Cola Zero Logo.",
+      "parameters": {}
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "Do not use the restricted version of the Arden Square, except in the 'Color' page in this chapter.",
+      "parameters": {}
+    },
+    {
+      "category": "Geometry",
+      "rule_text": "Do not use an older version of the Arden Square.",
+      "parameters": {}
+    },
+    {
+      "category": "Color",
+      "rule_text": "Black must predominate all executions.",
+      "parameters": {}
+    },
+    {
+      "category": "Color",
+      "rule_text": "Coke Red must be used to create dynamic framing.",
+      "parameters": {}
+    },
+    {
+      "category": "Color",
+      "rule_text": "Black color specifications.",
+      "parameters": {
+        "PMS": "Black",
+        "C": 0,
+        "M": 0,
+        "Y": 0,
+        "R": 0,
+        "G": 0,
+        "B": 0,
+        "Hex": "#000000"
+      }
+    },
+    {
+      "category": "Color",
+      "rule_text": "Coke Red color specifications.",
+      "parameters": {
+        "PMS": "no equivalent",
+        "C": 0,
+        "M": 100,
+        "Y": 100,
+        "R": 244,
+        "G": 0,
+        "B": 0,
+        "Hex": "#F40000"
+      }
+    },
+    {
+      "category": "Color",
+      "rule_text": "Silver color specifications.",
+      "parameters": {
+        "PMS": "Opaque White",
+        "C": 0,
+        "M": 0,
+        "Y": 0,
+        "R": 192,
+        "G": 192,
+        "B": 192,
+        "Hex": "#C0C0C0"
+      }
+    },
+    {
+      "category": "Color",
+      "rule_text": "White color specifications.",
+      "parameters": {
+        "PMS": "Opaque White",
+        "C": 0,
+        "M": 0,
+        "Y": 0,
+        "R": 255,
+        "G": 255,
+        "B": 255,
+        "Hex": "#FFFFFF"
+      }
+    },
+    {
+      "category": "Color",
+      "rule_text": "Do not use unapproved colors.",
+      "parameters": {}
+    },
+    {
+      "category": "Color",
+      "rule_text": "Do not screen or tint the Brand colors.",
+      "parameters": {}
+    },
+    {
+      "category": "Color",
+      "rule_text": "Do not omit Coke Red from layouts.",
+      "parameters": {}
+    },
+    {
+      "category": "Color",
+      "rule_text": "Do not create layouts in which black or red are not the dominant colors.",
+      "parameters": {}
+    },
+    {
+      "category": "Color",
+      "rule_text": "Do not use secondary Brand colors as primary Brand colors.",
+      "parameters": {}
+    },
+    {
+      "category": "Color",
+      "rule_text": "Do not add gradients or multiple tones of color to the Brand colors.",
+      "parameters": {}
+    },
+    {
+      "category": "Color",
+      "rule_text": "Do not use breakdowns of the Brand colors.",
+      "parameters": {}
+    },
+    {
+      "category": "Color",
+      "rule_text": "Do not use unapproved colors for the Coca-Cola Zero Logo.",
+      "parameters": {}
+    },
+    {
+      "category": "Color",
+      "rule_text": "Do not ignore the color rules specific to each Element in the Brand Standards.",
+      "parameters": {}
+    },
+    {
+      "category": "Printing",
+      "rule_text": "Do not use RGB or HEX breakdowns instead.",
+      "parameters": {}
+    },
+    {
+      "category": "Typography",
+      "rule_text": "Use Gotham Bold for headlines on all executions and brand communications.",
+      "parameters": {}
+    },
+    {
+      "category": "Typography",
+      "rule_text": "Use Gotham Book for body copy on all brand communications.",
+      "parameters": {}
+    },
+    {
+      "category": "Typography",
+      "rule_text": "Use Gotham Medium for functional messages only, such as pricing or calls to action.",
+      "parameters": {}
+    },
+    {
+      "category": "Typography",
+      "rule_text": "If Gotham is unavailable, use Arial as a replacement for internal communications.",
+      "parameters": {}
+    },
+    {
+      "category": "Usage Rights",
+      "rule_text": "The Coca-Cola Company does not have global rights to any of the Brand fonts.",
+      "parameters": {}
+    },
+    {
+      "category": "Typography",
+      "rule_text": "Use Gotham Book for body copy.",
+      "parameters": {}
+    },
+    {
+      "category": "Typography",
+      "rule_text": "Headlines should be in Gotham Bold.",
+      "parameters": {}
+    },
+    {
+      "category": "Typography",
+      "rule_text": "Body copy size should be 9 pt. type with 11 pt. leading.",
+      "parameters": {
+        "body_copy_size": "9 pt",
+        "leading": "11 pt"
+      }
+    },
+    {
+      "category": "Typography",
+      "rule_text": "Headlines size should be 10 pt. type with 12 pt. leading.",
+      "parameters": {
+        "headline_size": "10 pt",
+        "leading": "12 pt"
+      }
+    },
+    {
+      "category": "Typography",
+      "rule_text": "Call-to-action copy should always be in all lowercase.",
+      "parameters": {}
+    },
+    {
+      "category": "Typography",
+      "rule_text": "Currency symbols should be reduced to 0.5 of the total height of the numbers.",
+      "parameters": {
+        "currency_height_ratio": 0.5
+      }
+    },
+    {
+      "category": "Typography",
+      "rule_text": "Use Gotham Medium for the offer and sub-head.",
+      "parameters": {}
+    },
+    {
+      "category": "Typography",
+      "rule_text": "Align text left, right, or centered as appropriate.",
+      "parameters": {}
+    },
+    {
+      "category": "Typography",
+      "rule_text": "Do not use fonts other than those in the Gotham family for consumer-facing executions.",
+      "parameters": {}
+    },
+    {
+      "category": "Typography",
+      "rule_text": "Do not use Arial in consumer-facing executions.",
+      "parameters": {}
+    },
+    {
+      "category": "Typography",
+      "rule_text": "Do not use any font other than Gotham Bold as the primary headline font.",
+      "parameters": {}
+    },
+    {
+      "category": "Typography",
+      "rule_text": "Do not use Gotham Medium for body copy.",
+      "parameters": {}
+    },
+    {
+      "category": "Typography",
+      "rule_text": "Do not use Gotham Condensed for body copy.",
+      "parameters": {}
+    },
+    {
+      "category": "Color",
+      "rule_text": "Black is the primary background color.",
+      "parameters": {}
+    },
+    {
+      "category": "Color",
+      "rule_text": "White can be used as a background color.",
+      "parameters": {}
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "Product photography should evoke craving for the liquid.",
+      "parameters": {}
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "Product photography must highlight the uniqueness of the liquid.",
+      "parameters": {}
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "Photography should reflect the smooth familiarity of the Contour Bottle.",
+      "parameters": {}
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "Product photography must elicit positive emotional reactions.",
+      "parameters": {}
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "Photo must capture the contour bottle with minimal perspective distortion.",
+      "parameters": {
+        "max_perspective_distortion": "minimal"
+      }
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "Product angle should have very little perspective.",
+      "parameters": {
+        "max_angle": "minimal"
+      }
+    },
+    {
+      "category": "Color",
+      "rule_text": "Product color should include highlights of sunset oranges and yellows.",
+      "parameters": {
+        "highlight_colors": [
+          "sunset_oranges",
+          "yellows"
+        ]
+      }
+    },
+    {
+      "category": "Color",
+      "rule_text": "Product color should include darkness of dark chocolate with hints of caramel and deep reds.",
+      "parameters": {
+        "dark_colors": [
+          "dark_chocolate",
+          "caramel",
+          "deep_reds"
+        ]
+      }
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "Photo should ideally express the Coca-Cola Zero product.",
+      "parameters": {}
+    },
+    {
+      "category": "Lighting",
+      "rule_text": "Use a chrome reflective card directly behind the product.",
+      "parameters": {}
+    },
+    {
+      "category": "Lighting",
+      "rule_text": "Use two soft boxes for front lighting and a soft light for back lighting.",
+      "parameters": {
+        "number_of_soft_boxes": 2
+      }
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "Refreshment cues should be used sparingly and have the right balance.",
+      "parameters": {
+        "usage": "sparingly",
+        "balance": "right"
+      }
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "Uplifting product bubbles must be present.",
+      "parameters": {}
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "Maintain correct balance of condensation.",
+      "parameters": {}
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "Maximize script size.",
+      "parameters": {}
+    },
+    {
+      "category": "Imagery",
+      "rule_text": "Maintain darks and highlights.",
+      "parameters": {}
+    }
+  ]
+}
